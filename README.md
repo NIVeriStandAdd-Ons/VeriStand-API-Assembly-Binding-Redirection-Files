@@ -6,12 +6,12 @@ To create configuration files for other versions of VeriStand use a text editor 
 
 For reference, the version strings for each VeriStand version are as follows:
 
-2013 : 2013.0.0
-2013 SP1 : 2013.1.0
-2014 : 2014.0.0
-2015 : 2015.0.0
-2015 SP1 : 2015.1.0
-2016 : 2016.0.0
+2013 : 2013.0.0<br>
+2013 SP1 : 2013.1.0<br>
+2014 : 2014.0.0<br>
+2015 : 2015.0.0<br>
+2015 SP1 : 2015.1.0<br>
+2016 : 2016.0.0<br>
 
 The included configuration files must be renamed and placed in the same directory as the application or project being redirected.
 
@@ -19,7 +19,7 @@ For example, <b>LabVIEW.exe.config_Veristand_2015_0</b> should be renamed to <b>
 
 In order to force a particular project to use assemblies for VeriStand 2015, for example, rename <b>LabVIEW.exe.config_Veristand_2015_0</b> to <b><i>MyVeristandProject</i>.lvproj.config</b> and place the renamed file in the same directory as the project file. 
 
-<b>License Information</b>
+<b>License Information</b><br>
 Copyright 2017 National Instruments
 
 Licensed under the Apache License, Version 2.0 (the "License");
