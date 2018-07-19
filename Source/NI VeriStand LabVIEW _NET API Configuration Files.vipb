@@ -1,0 +1,275 @@
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-07-19 17:48:17" Modified_Date="2018-07-19 18:07:50" Creator="Andy Church" Comments="" ID="8ea4dc6db9ba90ab15fc4c84dc19601e">
+  <Library_General_Settings>
+    <Package_File_Name>ni_lib_veristand_dotnet_api_labview_configuration_files</Package_File_Name>
+    <Library_Version>1.0.0.6</Library_Version>
+    <Auto_Increment_Version>false</Auto_Increment_Version>
+    <Library_Source_Folder>.</Library_Source_Folder>
+    <Library_Output_Folder>..</Library_Output_Folder>
+    <Company_Name>NI</Company_Name>
+    <Library_Summary/>
+    <Library_License/>
+    <Package_LabVIEW_Version>15.0</Package_LabVIEW_Version>
+    <Community_Edition>false</Community_Edition>
+    <Package_Icon>00000CFC002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00B2B2B900010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FCFCFD00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00B2B2B900010000000000100000001000000002000000240024002400240000002900000012000000020000000D0080808A00010000000000100000001000000002000100230023002300230001001D00000C1800000C00000200020022002200180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C00006C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF</Package_Icon>
+    <Product_Name>NI VeriStand .NET API LabVIEW Configuration Files</Product_Name>
+    <Was_Built>true</Was_Built>
+    <Target>LabVIEW</Target>
+  </Library_General_Settings>
+  <Advanced_Settings>
+    <Package_Dependencies/>
+    <Custom_Action_VIs>
+      <Pre-Build_VI/>
+      <Post-Build_VI/>
+      <Pre-Install_VI/>
+      <Post-Install_VI/>
+      <Pre-Uninstall_VI/>
+      <Post-Uninstall_VI/>
+    </Custom_Action_VIs>
+    <VI_Package_Configuration_File>NI VeriStand LabVIEW _NET API Configuration Files.vipc</VI_Package_Configuration_File>
+    <Description>
+      <One_Line_Description_Summary/>
+      <Description>
+&lt;b&gt;IMPORTANT: It is only necessary to install this package for one version of LabVIEW. Configuration files will be installed for LabVIEW 2015, 2016, 2017, and 2018 using any version of this VI Package.&lt;/b&gt;
+
+This package contains configuration files used to force the LabVIEW Development Environment to load a specific version of the VeriStand .NET Assemblies. This can be required to successfully build and/or run LabVIEW code using the VS .NET API if multiple versions of VeriStand are installed.
+
+Configuration files for LabVIEW 2015, 2016, 2017, and 2018 are installed via VI Package to *&lt;Public Documents&gt;\National Instruments\VeriStand LabVIEW .NET API Configuration files*. 
+
+Configuration files for LabVIEW 2015 
+
+These configuration files can also be used to configure specific LabVIEW projects (.lvproj) or executables. To do so, rename the file to *your-labview-project.lvproj.config* and place the file next to the project.
+
+To create configuration files for other versions of VeriStand use a text editor to replace the '20XX.X.X' string in any of included files to match the version and service pack number of the version you need to use.
+
+For reference, the version strings for each VeriStand version are as follows:
+
+2013: 2013.0.0&lt;br&gt;
+2013 SP1: 2013.1.0&lt;br&gt;
+2014: 2014.0.0&lt;br&gt;
+2015: 2015.0.0&lt;br&gt;
+2015 SP1: 2015.1.0&lt;br&gt;
+2016: 2016.0.0&lt;br&gt;
+2017: 2017.0.0.0
+2018: 2018.0.0.0
+2018 SP1: 2018.1.0.0</Description>
+      <Copyright/>
+      <Packager/>
+      <URL>https://github.com/NIVeriStandAdd-Ons/VeriStand-LabVIEW-API-Project-Configuration-Files</URL>
+      <Release_Notes/>
+    </Description>
+    <Destinations>
+      <Toolkit_VIs>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Toolkit_VIs>
+      <Examples>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Examples>
+      <Custom_Probes>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Custom_Probes>
+      <Custom_Errors>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Custom_Errors>
+      <Help_Files>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Help_Files>
+      <Template_VIs>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Template_VIs>
+      <File_Menu>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </File_Menu>
+      <Tools_Menu>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Tools_Menu>
+      <Help_Menu>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Help_Menu>
+      <Project_Templates>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Project_Templates>
+      <Project_Provider>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </Project_Provider>
+      <QuickDrop_Plugins>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </QuickDrop_Plugins>
+      <Additional_Destination>
+        <Name>LV15</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;OS Application Files&gt;\National Instruments\LabVIEW 2015</Path>
+      </Additional_Destination>
+      <Additional_Destination>
+        <Name>LV16</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;OS Application Files&gt;\National Instruments\LabVIEW 2016</Path>
+      </Additional_Destination>
+      <Additional_Destination>
+        <Name>LV17</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;OS Application Files&gt;\National Instruments\LabVIEW 2017</Path>
+      </Additional_Destination>
+      <Additional_Destination>
+        <Name>LV18</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;OS Application Files&gt;\National Instruments\LabVIEW 2018</Path>
+      </Additional_Destination>
+      <Additional_Destination>
+        <Name>PublicDocs</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;OS Public Documents&gt;\National Instruments\NI VeriStand .NET API LabVIEW Configuration Files</Path>
+      </Additional_Destination>
+    </Destinations>
+    <Source_Files>
+      <Destination_Overrides>
+        <Path>.</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Configuration Files</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>4</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>2018/LabVIEW.exe.config</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>3</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>2017/LabVIEW.exe.config</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>2</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>2016/LabVIEW.exe.config</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>1</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>2015 SP1/LabVIEW.exe.config</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>README.txt</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>4</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Placeholder.vi</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>4</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Password_Overrides>
+        <Path>.</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
+      <Namespace_Overrides>
+        <Path>.</Path>
+        <Namespace_Type>Prefix</Namespace_Type>
+        <Namespace/>
+      </Namespace_Overrides>
+    </Source_Files>
+    <License_Agreement_Filepath/>
+    <Licensing_and_Activation>
+      <License_LF_file_path/>
+      <Licensed_library_file_path/>
+      <Perform_License_Binding>false</Perform_License_Binding>
+      <Purchase_URL/>
+      <License_File_Password/>
+      <Web_Activation_URL/>
+      <Phone_Activation_Number/>
+      <Auto_Activation_URL/>
+      <Library_Protection_Password>&lt;random:32&gt;</Library_Protection_Password>
+      <Enable_Deactivation>false</Enable_Deactivation>
+      <Encryption_key_id/>
+      <Client_key/>
+      <Server_key/>
+      <License_Sublibraries>false</License_Sublibraries>
+    </Licensing_and_Activation>
+    <Palette_Sets>
+      <Palette_Set_Name>Default</Palette_Set_Name>
+      <Use_Custom_Category>false</Use_Custom_Category>
+      <Custom_Category_Name/>
+      <Custom_Category_Icon>00000176002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000008F000000690000000E0007001300180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FFCFFFAFFFAFFFAFFFAFFF07FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000008F000000690019000E0020001300180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FFCFFFAFFFAFFFAFFFAFFF07FF</Custom_Category_Icon>
+      <Controls_Palette_Information>
+        <Virtual_Palette_Base_Path>Controls</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;menus&gt;\Controls</Palette_Disk_Base_Path>
+        <Syncing_MNU_file/>
+      </Controls_Palette_Information>
+      <Functions_Palette_Information>
+        <Virtual_Palette_Base_Path>Functions</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;menus&gt;\Categories</Palette_Disk_Base_Path>
+        <Syncing_MNU_file/>
+      </Functions_Palette_Information>
+      <Apply_Short_Names_to_VI_Titles>false</Apply_Short_Names_to_VI_Titles>
+      <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
+      <Library_or_Class_Nmae/>
+    </Palette_Sets>
+    <Install_Requirements>
+      <All_Windows>true</All_Windows>
+      <Windows_7>true</Windows_7>
+      <Windows_Vista>true</Windows_Vista>
+      <Windows_XP>true</Windows_XP>
+      <Mac_OS>true</Mac_OS>
+      <Linux>true</Linux>
+      <Built_LV_Version>false</Built_LV_Version>
+      <Built_LV_Version_or_greater>true</Built_LV_Version_or_greater>
+      <Windows_8>true</Windows_8>
+      <OS_32-Bit>true</OS_32-Bit>
+      <OS_64-Bit>true</OS_64-Bit>
+      <LV_32-Bit>true</LV_32-Bit>
+      <LV_64-Bit>true</LV_64-Bit>
+    </Install_Requirements>
+    <LabVIEW>
+      <close_labview_before_install>false</close_labview_before_install>
+      <restart_labview_after_install>false</restart_labview_after_install>
+      <skip_mass_compile_after_install>false</skip_mass_compile_after_install>
+    </LabVIEW>
+    <VI_Docs>
+      <Edit_VI_Description>false</Edit_VI_Description>
+      <Text_to_Add>{product_name} {version_number}
+{author_name} - {company_name}
+{copyright}</Text_to_Add>
+    </VI_Docs>
+    <System_Destinations/>
+  </Advanced_Settings>
+  <Library_Palette_Definition/>
+</VI_Package_Builder_Settings>
