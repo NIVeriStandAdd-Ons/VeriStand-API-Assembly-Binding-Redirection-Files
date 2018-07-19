@@ -16,9 +16,9 @@ For reference, the version strings for each VeriStand version are as follows:
 2015: 2015.0.0<br>
 2015 SP1: 2015.1.0<br>
 2016: 2016.0.0<br>
-2017: 2017.0.0.0
-2018: 2018.0.0.0
-2018 SP1: 2018.0.0.1
+2017: 2017.0.0.0<br>
+2018: 2018.0.0.0<br>
+2018 SP1: 2018.0.0.1<br>
 
 <b>License Information</b><br>
 
