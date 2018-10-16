@@ -12,8 +12,6 @@ Configuration files for LabVIEW 2015, 2016, 2017, and 2018 are installed by the 
 
 The specific year-version configuration file must be placed next to the LabVIEW.exe executable. For example, the configuration file for VeriStand 2018 should be placed in `<Program Files>\National Instruments\LabVIEW 2018`. 
 
-These files are placed in the correct directories automatically by the accompanying VI Package.
-
 These configuration files can also be used to configure specific LabVIEW projects (.lvproj) or executables. To do so, rename the file to *your-labview-project.lvproj.config* and place the file next to the project or executable.
 
 The version strings for each VeriStand version are as follows:

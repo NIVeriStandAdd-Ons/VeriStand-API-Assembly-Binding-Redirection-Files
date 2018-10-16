@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-07-19 17:48:17" Modified_Date="2018-10-15 21:40:34" Creator="Andy Church" Comments="" ID="8be52ea98cba479598d44a07c7e9c7ca">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-07-19 17:48:17" Modified_Date="2018-10-15 22:01:57" Creator="Andy Church" Comments="" ID="fc2a9fe8098c065682ce8077c4415035">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_veristand_dotnet_api_labview_configuration_files</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -28,14 +28,9 @@
     <VI_Package_Configuration_File>NI VeriStand LabVIEW _NET API Configuration Files.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary/>
-      <Description>
-&lt;b&gt;IMPORTANT: It is only necessary to install this package for one version of LabVIEW. Configuration files will be installed for LabVIEW 2015, 2016, 2017, and 2018 using any version of this VI Package.&lt;/b&gt;
-
-This package contains configuration files used to force the LabVIEW Development Environment to load a specific version of the VeriStand .NET Assemblies. This can be required to successfully build and/or run LabVIEW code using the VS .NET API if multiple versions of VeriStand are installed.
+      <Description>This package contains configuration files used to force the LabVIEW Development Environment to load a specific version of the VeriStand .NET Assemblies. This can be required to successfully build and/or run LabVIEW code using the VS .NET API if multiple versions of VeriStand are installed.
 
 Configuration files for LabVIEW 2015, 2016, 2017, and 2018 are installed via VI Package to *&lt;Public Documents&gt;\National Instruments\VeriStand LabVIEW .NET API Configuration files*. 
-
-Configuration files for LabVIEW 2015 
 
 These configuration files can also be used to configure specific LabVIEW projects (.lvproj) or executables. To do so, rename the file to *your-labview-project.lvproj.config* and place the file next to the project.
 
@@ -159,30 +154,6 @@ For reference, the version strings for each VeriStand version are as follows:
         <Destination>0</Destination>
         <Additional_Destination>true</Additional_Destination>
         <Additional_Destination_Index>4</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>2018/LabVIEW.exe.config</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>true</Additional_Destination>
-        <Additional_Destination_Index>3</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>2017/LabVIEW.exe.config</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>true</Additional_Destination>
-        <Additional_Destination_Index>2</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>2016/LabVIEW.exe.config</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>true</Additional_Destination>
-        <Additional_Destination_Index>1</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>2015 SP1/LabVIEW.exe.config</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>true</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
         <Path>README.txt</Path>
